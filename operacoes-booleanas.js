@@ -23,3 +23,4 @@ if (numeroDez === Number(stringDez)) {
   console.log('As variáveis numeroDez e stringDez não têm o mesmo valor.');
 }
 
+
